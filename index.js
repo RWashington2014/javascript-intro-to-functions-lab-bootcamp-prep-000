@@ -21,4 +21,3 @@ function sayHiToGrandma(string){
   else if(string.toLowerCase() === mixedCase)
   return 'I love you, too.'
 }
-  
